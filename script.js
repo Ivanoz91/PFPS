@@ -10,4 +10,7 @@ function getComputerChoice() {
         return "Scissor"
     }
 }
-console.log(getComputerChoice())
+function Round(){
+    let Playerchoice = prompt("Enter Rock, Paper or Scissor")
+    
+}
